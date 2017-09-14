@@ -15,16 +15,22 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
+Image 1
 [image1]: ./test_images_output/solidWhiteCurve.jpg "Image 1"
 
+Image 2
 [image2]: ./test_images_output/solidWhiteRight.jpg "Image 2"
 
+Image 3
 [image3]: ./test_images_output/solidYellowCurve.jpg "Image 3"
 
+Image 4
 [image4]: ./test_images_output/solidYellowCurve2.jpg "Image 4"
 
+Image 5
 [image5]: ./test_images_output/solidYellowLeft.jpg "Image 5"
 
+Image 6
 [image6]: ./test_images_output/whiteCarLaneSwitch.jpg "Image 6"
 
 ---
